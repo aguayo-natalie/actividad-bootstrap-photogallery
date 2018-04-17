@@ -1,0 +1,25 @@
+.glyphicon {
+	font-size: 1.5em; 
+	color: black;}
+
+.foto {
+	background-image: url(../images/bg2.jpg); 
+	margin-top: 51px; 
+	text-align: center; 
+	min-height: 50vh; 
+	padding-top: 60px;
+	color: white;}
+
+.thumbnail {
+	padding: 0;
+	overflow: hidden;
+	text-align: center;
+	border: 10px solid #ddd;
+	border-radius: 20px;
+	margin-top: 30px;}
+
+.panel-default {
+	text-align: center;}
+
+.panel {
+	margin-bottom: 0;}
